@@ -1,4 +1,6 @@
-# NEOCITIES website update script: HUGO --> GIT --> NEOCITES
+# NEOCITIES website update script: 
+
+I personally use this script as follows: HUGO --> GIT --> NEOCITES
 
 Requirements:
 - linux terminal.
